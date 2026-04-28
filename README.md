@@ -51,8 +51,8 @@ You will need an user token inorder to use this code. You can obtain it by doing
 3. Download the repository and extract it
 4. Open the `main.py` file and modify both the status mode and custom status, if you want to make any adjustments
 5. Save the file
-6. Open command prompt where both the files are present and run `pip install -r requirements.txt`
-7. Once the packages are downloaded, either double-click the python file in order to run it or open command prompt where the python file is present and run `python main.py`
+6. Open command prompt inside the folder and run `pip install -r requirements.txt`
+7. Once the packages are downloaded, either double-click the `main.py` file in order to run it or open command prompt and run `python main.py`
 
 ---
 
