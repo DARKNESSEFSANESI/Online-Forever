@@ -62,7 +62,6 @@ async def discord_gateway():
                 }
             }
         }
-
         await ws.send(json.dumps(identify))
 
         while True:
