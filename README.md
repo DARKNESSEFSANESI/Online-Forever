@@ -56,11 +56,4 @@ You will need an user token inorder to use this code. You can obtain it by doing
 
 ---
 
-## 🔧 Known Errors And Fixes
-### [Discord] Status is not changing
-
-Just wait for a few minutes. It takes some time for Discord to refresh your status.
-
----
-
 <p align="center">Online Forever is licensed under GNU General Public License ❤️</p>
